@@ -1,2 +1,2 @@
-# Leetcode-
+# Leetcode
 Just have a fun
